@@ -1,0 +1,22 @@
+#box1{
+  
+    background-color: orange;
+}
+#box2{
+    background-color: white;
+}
+#box3{
+    background-color: green;
+}
+#box1,#box2,#box3{
+     height: 200px;
+    width: 600px;
+}
+*{
+    background-color: dimgray;
+}
+
+.blue,.orange{
+    height: 300px;
+    width: 300px;
+}
