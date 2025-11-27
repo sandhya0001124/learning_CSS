@@ -1,0 +1,96 @@
+body{
+    height: 600px;
+    width: 100%;
+    background-image: url(hhttps://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500ttps://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fphoto-blue-waves-backgroundblue-waves-background-design-ai-gnerated_1145931-32818.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&tbnid=3sCj963KBwzW8M&vet=10CA4QxiAoBWoXChMI2OKaj-CSkQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fblue-wave-background&docid=z0kfn-huyhPzqM&w=740&h=740&q=blue%20background%20images%20with%20light%20waves&ved=0CA4QxiAoBWoXChMI2OKaj-CSkQMVAAAAAB0AAAAAEAc);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#login-container{
+    height: 600px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+}
+#login-image{
+    height: 250px;
+    width: 100%;
+    background-image:url("https://png.pngtree.com/background/20250106/original/pngtree-a-full-moon-hangs-high-in-the-night-sky-casting-its-picture-image_15971314.jpg"); 
+background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#content {
+  height: 100px;
+  width: 80%;
+  /* border: 2px solid white; */
+  text-align: center;
+}
+p {
+  color: white;
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#heading {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+}
+#login-form {
+  height: 250px;
+  width: 70%;
+  /* border: 2px solid red; */
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+#checkboxcontainer {
+  height: 30px;
+  width: 80%;
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+}
+label,
+a {
+  font-size: 10px;
+}
+a {
+  margin-left: 70px;
+}
+.inputtype {
+  width: 80%;
+  height: 20px;
+  border-radius: 20px;
+  background-color: rgb(0, 57, 126);
+  border: none;
+}
+button {
+  height: 20px;
+  width: 40%;
+  background-color: rgb(0, 57, 126);
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+#login {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: rgb(0, 57, 126);
+}
+input::placeholder {
+  color: white;
+}
+#link{
+    font-size: 15px;
+    color: white;
+} 
+
+
