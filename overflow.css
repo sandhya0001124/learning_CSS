@@ -1,0 +1,17 @@
+#box{
+    height: 500px;
+    width: 500px;
+    border: 2px solid red;
+    overflow: auto;
+}
+#box::-webkit-scrollbar{
+    width: 10px;
+}
+#box::-webkit-slider-thumb{
+    background-color: blue;
+    border-radius: 20px;
+}
+#box::-webkit-slider-runnable-track{
+    background-color: green;
+    border-radius: 20px;
+}
