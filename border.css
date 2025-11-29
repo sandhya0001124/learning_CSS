@@ -1,0 +1,26 @@
+
+/* body{
+    height: 600px;
+    width: 600px;
+} */
+/* SINGLE HAND PROPERTY */
+#box{
+    height: 200px;
+    width: 200px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: red; */
+
+    border: 5px solid red;
+    /* border-top: none; */
+
+    /* border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px; */
+border-radius: 50%;
+    /* border-radius: 0px 20px 0px 20px; */
+ 
+}
+/* img{
+    height: 50%;
+    width: 50%;
+} */
