@@ -1,0 +1,26 @@
+/* h1::first-letter{
+  color: red;
+} */
+ h1::after{
+    content: "👍";
+ }
+ h1::before{
+    content: "👍";
+ }
+
+/* p::first-line{
+    color: green;
+} */
+
+/* P::selection{
+    color: red;
+} */
+ /* li{
+    color: red;
+ }
+ li::marker{
+    color: blueviolet;
+ } */
+  input::placeholder{
+    color: aqua;
+  }
