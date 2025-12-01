@@ -1,0 +1,35 @@
+/* [type]
+{
+    border: 2px solid red;
+} */
+
+/* [type=password]{
+    border: 3px solid green;
+} */
+
+/* [class*=box]{
+    height: 200px;
+    width: 200px;
+  background-color:aqua ;
+  border: 3px solid red;
+} */
+ /* [class*=o]{
+    height: 200px;
+    width: 200px;
+  background-color:aqua ;
+  border: 3px solid red;
+} */
+
+/* [class^=bo]{
+    height: 200px;
+    width: 200px;
+  background-color:aqua ;
+  border: 3px solid red;
+} */
+
+/* [class$=box1]{
+    height: 200px;
+    width: 200px;
+  background-color:aqua ;
+  border: 3px solid red;
+} */
